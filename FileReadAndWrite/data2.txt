@@ -1,0 +1,2 @@
+java是世界上最好的语言！
+java is better than C++!
