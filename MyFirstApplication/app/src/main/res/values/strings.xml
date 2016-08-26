@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="heightText">身高(cm)</string>
+    <string name="weightText">体重(kg)</string>
+    <string name="submitBtnText">计算BMI值</string>
+</resources>
